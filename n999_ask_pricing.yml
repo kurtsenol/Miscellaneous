@@ -1,0 +1,18 @@
+version: "2.0"
+nlu:
+- intent: ask_pricing
+  examples: |
+    - [How much](price) is it?
+    - [how much](price) does it cost?
+    - show me [prices](price)  
+    - Is it subscription based?
+    - what are the [prices](price)?
+    - Are there any [hidden fees]?(price)?
+    - Are there any [extra fees]?(price)?
+    - any [hidden fees]?(price)?
+    - any [extra fees]?(price)?
+    - should I pay any [extra fees]?(price)?
+    - is there any [hidden fee]?(price)?
+    - should I pay an [extra fee]?(price)?
+    - do you want any [extra fee]?(price)?
+    - tell me about [prices](price)

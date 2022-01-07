@@ -1,0 +1,12 @@
+version: "2.0"
+nlu:
+- intent: ask_ask_report
+  examples: |
+    - info about my [](client)
+    - get me info about [clients](client)
+    - show me info about my [clients](client)
+    - show me [client](client) info
+    - get me [client](client) details
+    - I like to see [client](client) details
+    - show me how can I see [client](client) info
+    - I wanna see [client](client) info

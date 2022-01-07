@@ -1,0 +1,13 @@
+version: "2.0"
+nlu:
+- intent: ask_link_paypal_account
+  examples: |
+    - How do I [link](link) my [paypal account](bank account)
+    - how can I [link](link) my [paypal account](bank account)
+    - how to [link](link) my [paypal account](bank account)
+    - how to [link](link) my [bank account](bank account)
+    - I want to [link](link) my [paypal](bank account)
+    - [link](link) my [paypal](bank account)
+    - I like to [link](link) my [bank account](bank account)
+    - show me how can I [link](link) my [bank account](bank account)
+    - I wanna [link](link) my [paypal account](bank account)

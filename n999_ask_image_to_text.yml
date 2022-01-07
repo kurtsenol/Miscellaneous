@@ -1,0 +1,16 @@
+version: "2.0"
+nlu:
+- intent: ask_image_to_text
+  examples: |
+    - How [image to text](image_to_text) works
+    - I want to learn about [image to text](image_to_text)
+    - tell me about [image to text](image_to_text)
+    - what is [image to text](image_to_text)
+    - does [image to text](image_to_text) really work
+    - how does [image-to-text](image_to_text) work
+    - info about [image to text](image_to_text)
+    - get me info about [image to text](image_to_text)
+    - show me info about [image to text](image_to_text)
+    - How [OCR](image_to_text) works
+    - info about [OCR](image_to_text)
+    - show me info about [OCR](image_to_text)

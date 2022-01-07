@@ -1,0 +1,13 @@
+version: "2.0"
+nlu:
+- intent: ask_speech_to_text
+  examples: |
+    - How [speech to text](speech_to_text) works
+    - I want to learn about [speech to text](speech_to_text)
+    - tell me about [speech to text](speech_to_text)
+    - what is [speech-to-text](speech_to_text)
+    - does [speech to text](speech_to_text) really work
+    - how does [speech-to-text](speech_to_text) work
+    - info about [speech to text](speech_to_text)
+    - get me info about [speech to text](speech_to_text)
+    - show me info about [speech to text](speech_to_text)

@@ -1,0 +1,12 @@
+version: "2.0"
+nlu:
+- intent: ask_ask_add_service
+  examples: |
+    - How do I [add](add) [service](service)
+    - how can I [add](add) [service](service)
+    - how to [add](add) [service](service)
+    - I want to [add](add) [service](service)
+    - [add](add) [service](service)
+    - I like to [add](add) [service](service)
+    - show me how can I [add](add) [service](service)
+    - I wanna [add](add) [service](service)

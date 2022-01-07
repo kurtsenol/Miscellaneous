@@ -1,0 +1,12 @@
+version: "2.0"
+nlu:
+- intent: ask_secure
+  examples: |
+    - Is this a secure platform?
+    - Are you HIPAA compliant?
+    - Can I use Hypnotes for my patient records?  
+    - are you secure?
+    - can i trust you?
+    - is this HIPAA compliant
+    - is this HIPAA compliant platform
+  

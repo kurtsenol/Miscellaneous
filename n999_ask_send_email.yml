@@ -1,0 +1,14 @@
+version: "2.0"
+nlu:
+- intent: ask_send_email
+  examples: |
+    - How to send [email](email) to the [clients](client) 
+    - How do I send [email](email) to a [client](client)
+    - how can I send [email](email) to a [client](client)
+    - how to send [email](email)
+    - how to contact with [clients](client)
+    - I want to send [email](email) to the [clients](client) 
+    - send [email](email) to the [clients](client) 
+    - I like to contact with [clients](client)
+    - show me how can I send [email](email) to the [clients](client)
+    - I wanna send [email](email) to the [clients](client)

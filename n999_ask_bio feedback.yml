@@ -1,0 +1,16 @@
+version: "2.0"
+nlu:
+- intent: ask_bio feedback
+  examples: |
+    - How [emotion detection](bio feedback) works
+    - How [bio feedback](bio feedback) works 
+    - I want to learn about [emotion detection](bio feedback)
+    - I want to learn about [bio feedback](bio feedback)
+    - tell me about [emotion detection](bio feedback)
+    - tell me about [bio feedback](bio feedback)
+    - what is [bio feedback](bio feedback)
+    - what is [emotion detection](bio feedback)
+    - does [emotion detection](bio feedback) really work
+    - does [bio feedback](bio feedback) really work
+    - info about [emotion detection](bio feedback)
+    - info about [bio feedback](bio feedback)

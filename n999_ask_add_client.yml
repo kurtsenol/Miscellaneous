@@ -1,0 +1,12 @@
+version: "2.0"
+nlu:
+- intent: ask_ask_add_client
+  examples: |
+    - How do I [add](add) [client](client)
+    - how can I [add](add) [client](client)
+    - how to [add](add) [client](client)
+    - I want to [add](add) [client](client)
+    - [add](add) [client](client)
+    - I like to [add](add) [client](client)
+    - show me how can I [add](add) [client](client)
+    - I wanna [add](add) [client](client)
